@@ -18,4 +18,4 @@ It functions by running a recursive algorithm in the following order:
       a) If the link is accessible AND returns an OK response code, start a new *thread\** that starts over at step (1) with this new link.
       b) If not, flag the link as broken, printing out the page on which is is found and a processed version of its HTML element.
      
-*\*This algorithm takes advantage of multithreading techniques, searching through multiple pages at the same time, to streamline the process.
+*\*This algorithm takes advantage of multithreading techniques, searching through multiple pages at the same time, to streamline the process.*
