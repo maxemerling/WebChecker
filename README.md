@@ -1,21 +1,21 @@
-This is a mini-project dedicated to finding duplicate collections, products, pages, and blogs on the heroarts.com website.
+# Overview
 
-This is done by scanning through the sitemap and noting when a certain hyperlinks, name, or product number occurs more than once.
-The current version ignores cross-section repeats (i. e. if a certain name occurs in both "collections" and in "pages," and only
-focuses on if each section contains repeated listings.
-
-All pages of the "products" section are considered, and the program will return which pages the repeated listings are on for easy
-manual find/replace verification.
-
-NOTE: this program may return some false positives (see "drawbacks"), so manually checking the output to make sure the repeats actually exist is
-recommended.
+This is a project dedicated to checking for certain errors on the [HeroArts website](https://heroarts.com).
 
 
+## Duplicate Checker
 
-Drawbacks of the current version:
+One part of the project scans through the [HeroArts Sitemap](https://heroarts.com/tools/sitemap), looking for duplicate products, pages, collections, and blogs.
 
-The few products that have IDs longer than 5 characters won't be parsed correctly (the program only reads the first 5 digits of the ID),
-so these could yield false positives.
 
-The program returns repeated hyperlinks, product IDs, and listing names separately. This allows it to be clear when, for example,
-a product ID is listed twice with two different names; however, it can cause fully duplicated products to be returned multiple times.
+## Broken Link Checker
+
+The other part of this project scans through the entire HeroArts site, starting from the [home page](https://heroarts.com), looking for any links that return any sort of error.
+
+It functions by running a recursive algorithm in the following order:
+  1) Pull all HTTP hyperlinks from the current page by scanning through the HTML source code.
+  2) For each link, check to see if it is accessible, and if so, get the HTTP response code.
+      a) If the link is accessible AND returns an OK response code, start a new *thread\** that starts over at step (1) with this new link.
+      b) If not, flag the link as broken, printing out the page on which is is found and a processed version of its HTML element.
+     
+\**This algorithm takes advantage of multithreading techniques, searching through multiple pages at the same time, to streamline the process.
