@@ -1,0 +1,261 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\lib\idea_rt.jar=57631:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\maxem\Documents\HeroArts\out\production\WebChecker linkChecker.LinkCheckerLimited
+ERR | https://blog.heroarts.com/ | Blog | PARENT: https://heroarts.com
+404 | https://heroarts.com/session/new | Log in | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/signup | signup | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/following | <div class="statnum">96</div> | PARENT: https://twitter.com/@myheroarts
+Time elapsed: 2.319644017616667 minutes.
+404 | https://heroarts.com/myheroarts/followers | <div class="statnum">25,352</div> | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/media/grid?idx=0 | IMAGE: http://rc= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/media/grid?idx=1 | IMAGE: http://rc= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/media/grid | View more photos | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts?p=i | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts?p=s | @ | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1155909468447813632?p=p | 4h | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1155909468447813632?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1155909468447813632?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1155909468447813632/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1155909468447813632/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1155909468447813632/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1155857482285244418?p=p | 8h | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1155857482285244418?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1155857482285244418?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1155857482285244418/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1155857482285244418/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1155857482285244418/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1154432027959205888?p=p | Jul 25 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1154432027959205888?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1154432027959205888?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1154432027959205888/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1154432027959205888/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1154432027959205888/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1154179190515806214?p=p | Jul 24 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1154179190515806214?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1154179190515806214?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1154179190515806214/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1154179190515806214/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1154179190515806214/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1153718231145885696?p=p | Jul 23 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1153718231145885696?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1153718231145885696?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1153718231145885696/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1153718231145885696/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1153718231145885696/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1153697254387212288?p=p | Jul 23 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1153697254387212288?p=v | View details | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1153697254387212288?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1153697254387212288/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1153697254387212288/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1153697254387212288/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1152701318139695104?p=p | Jul 20 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1152701318139695104?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1152701318139695104?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1152701318139695104/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1152701318139695104/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1152701318139695104/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1152227411062337539?p=p | Jul 19 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1152227411062337539?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1152227411062337539?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1152227411062337539/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1152227411062337539/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1152227411062337539/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151912841512927232?p=p | Jul 18 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151912841512927232?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1151912841512927232?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1151912841512927232/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1151912841512927232/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151912841512927232/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151595640864088065?p=p | Jul 17 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151595640864088065?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1151595640864088065?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1151595640864088065/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1151595640864088065/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151595640864088065/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151316166721323008?p=p | Jul 16 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151316166721323008?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1151316166721323008?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1151316166721323008/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1151316166721323008/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1151316166721323008/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1150872876926586881?p=p | Jul 15 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1150872876926586881?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1150872876926586881?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1150872876926586881/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1150872876926586881/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1150872876926586881/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149716301767675905?p=p | Jul 12 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149716301767675905?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1149716301767675905?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/products/di578-peek-a-boo-doors-fancy-die-f%20Mini%20Messages | Peek-A-Boo Doors Fancy Die | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/products/af420-taffy-reactive-ink%09 | Taffy Reactive Ink | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/products/cm351-hero-greetings-mini-message | Hero Greetings Mini-Messages | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/products/my-monthly-hero-july-2019 | July 2019 My Monthly Hero Kit | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/collections/all/products/my-monthly-hero-july-2019 | July My Monthly Hero kit | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/statuses/1149716301767675905/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1149716301767675905/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149716301767675905/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149344360439386116?p=p | Jul 11 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149344360439386116?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1149344360439386116?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1149344360439386116/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1149344360439386116/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149344360439386116/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149020638604079106?p=p | Jul 10 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149020638604079106?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1149020638604079106?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1149020638604079106/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1149020638604079106/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1149020638604079106/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148632160045346818?p=p | Jul 9 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148632160045346818?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1148632160045346818?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1148632160045346818/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1148632160045346818/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148632160045346818/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148395353798008832?p=p | Jul 8 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148395353798008832?p=v | View summary | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1148395353798008832?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1148395353798008832/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1148395353798008832/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148395353798008832/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148354602858876932?p=p | Jul 8 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148354602858876932?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1148354602858876932?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1148354602858876932/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1148354602858876932/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1148354602858876932/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1147211188847226880?p=p | Jul 5 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1147211188847226880?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1147211188847226880?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1147211188847226880/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/products/july-2019-get-them-all | Get Them All | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/collections/mmh-july-2019/products/ws1016-factory-bundle | Travel Edition | PARENT: https://hero-arts.myshopify.com/blogs/hero-arts-blog.atom
+404 | https://heroarts.com/statuses/1147211188847226880/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1147211188847226880/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146915975595474950?p=p | Jul 4 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146915975595474950?p=v | View details | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1146915975595474950?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146915975595474950/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146915975595474950/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146915975595474950/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146915151364481025?p=p | Jul 4 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146915151364481025?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1146915151364481025?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146915151364481025/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146915151364481025/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146915151364481025/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146807727567572992?p=p | Jul 4 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146807727567572992?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1146807727567572992?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146807727567572992/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146807727567572992/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146807727567572992/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146560165002522624?p=p | Jul 3 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146560165002522624?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1146560165002522624?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146560165002522624/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146560165002522624/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146560165002522624/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146502749598736390?p=p | Jul 3 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146502749598736390?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1146502749598736390?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146502749598736390/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146502749598736390/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146502749598736390/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146098599656382471?p=p | Jul 2 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146098599656382471?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1146098599656382471?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146098599656382471/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1146098599656382471/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1146098599656382471/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1145747617600741376?p=p | Jul 1 | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/hashtag/mymonthlyhero?src=hash | #mymonthlyhero | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1145747617600741376?p=v | View photo | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/reply/1145747617600741376?p=r | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1145747617600741376/retweet?p=t | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/statuses/1145747617600741376/favorite?p=f&amp;authenticity_token=9b46d5e19e3adfeb6de5982c1aded3b095cadb7f | IMAGE: http://lt= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/myheroarts/status/1145747617600741376/actions | IMAGE: http://        </span>    </td>  </tr></table>            <table class= | PARENT: https://twitter.com/@myheroarts
+404 | https://heroarts.com/home.asp | IMAGE: http://ART: global_header--><a href= | PARENT: https://www.franticstamper.com/
+404 | https://heroarts.com/view_cart.asp | IMAGE: http://rc= | PARENT: https://www.franticstamper.com/
+404 | https://heroarts.com/3m/ | 3M | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/action-wobble/ | Action Wobble | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/advantus/ | Advantus | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/alexandra-renke/ | Alexandra Renke | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/altenew/ | Altenew | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/alvin/ | Alvin | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/american-crafts/ | American Crafts | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/ampersand-art-supply/ | Ampersand Art Supply | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/annies-attic/ | Annie&#039;s Attic | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/apple-pie-memories/ | Apple Pie Memories | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/arc-crafts/ | Arc Crafts | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/art-gone-wild-stamps/ | Art Gone Wild Stamps | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/art-impressions/ | Art Impressions | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/art-institute-glitter/ | Art Institute Glitter | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/artbin/ | ArtBin | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/avery-elle/ | Avery Elle | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/bazzill/ | Bazzill | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/be-creative/ | Be Creative | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/beadalon/ | Beadalon | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/best-creation/ | Best Creation | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/birch-press-design-1/ | Birch Press Design | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/brutus-monroe/ | Brutus Monroe | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/buttons-galore/ | Buttons Galore | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/canson/ | Canson | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/catherine-pooler-designs/ | Catherine Pooler Designs | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/cheery-lynn-designs/ | Cheery Lynn Designs | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/chibitronics/ | Chibitronics | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/claritystamp/ | Claritystamp | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/clearbags/ | ClearBags | PARENT: https://www.ellenhutson.com/
+404 | https://heroarts.com/aboutus.asp | About Us | PARENT: https://www.emmaspaperie.com/Default.asp
+404 | https://heroarts.com/articles.asp?id=131 | Contact Us | PARENT: https://www.emmaspaperie.com/Default.asp
+404 | https://heroarts.com/myaccount.asp | My Account | PARENT: https://www.emmaspaperie.com/Default.asp
+404 | https://heroarts.com/search/label/+json.feed.entry[i].category[e].term+?max-results=6 | '+json.feed.entry[i].category[e].term+' | PARENT: https://poeticartistry.blogspot.com/
+ERR | http://+posturl+ | IMAGE: http://rc= | PARENT: https://poeticartistry.blogspot.com/
+ERR | http://-+-posturl-+- | ' + title + ' | PARENT: https://poeticartistry.blogspot.com/
+ERR | http://+imgurl+ | IMAGE: http://lt= | PARENT: https://poeticartistry.blogspot.com/
+Exception in thread "Thread-139" java.lang.RuntimeException: java.lang.IllegalArgumentException: URI can't be null.
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1523)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3120)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:536)
+	at linkChecker.LinkCheckerLimited.search(LinkCheckerLimited.java:76)
+	at linkChecker.LinkCheckerLimited.lambda$search$0(LinkCheckerLimited.java:94)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.IllegalArgumentException: URI can't be null.
+	at java.base/sun.net.spi.DefaultProxySelector.select(DefaultProxySelector.java:163)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1175)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1075)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1009)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1581)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1509)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	... 3 more
+Exception in thread "Thread-131" java.lang.StringIndexOutOfBoundsException: begin 6, end -1, length 102
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3319)
+	at java.base/java.lang.String.substring(String.java:1874)
+	at linkChecker.LinkCheckerLimited.formatElement(LinkCheckerLimited.java:183)
+	at linkChecker.LinkCheckerLimited$Link.<init>(LinkCheckerLimited.java:204)
+	at linkChecker.LinkCheckerLimited.search(LinkCheckerLimited.java:62)
+	at linkChecker.LinkCheckerLimited.lambda$search$0(LinkCheckerLimited.java:94)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+404 | https://heroarts.com/unsupportedbrowser | update your browser | PARENT: https://www.facebook.com/HeroArts1
+404 | https://heroarts.com/HeroArts1/?ref=page_internal | _2yav | PARENT: https://www.facebook.com/HeroArts1
+ERR | http://javascript:void(0) |  | PARENT: https://scrapbookingmadesimple.com/
+Exception in thread "Thread-241" java.lang.StringIndexOutOfBoundsException: begin 6, end -1, length 102
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3319)
+	at java.base/java.lang.String.substring(String.java:1874)
+	at linkChecker.LinkCheckerLimited.formatElement(LinkCheckerLimited.java:183)
+	at linkChecker.LinkCheckerLimited$Link.<init>(LinkCheckerLimited.java:204)
+	at linkChecker.LinkCheckerLimited.search(LinkCheckerLimited.java:62)
+	at linkChecker.LinkCheckerLimited.lambda$search$0(LinkCheckerLimited.java:94)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+404 | https://www.youtube.com/misschelleshort | VIDEOS | PARENT: https://www.cardgrotto.com/2019/07/hero-arts-gina-k-designs-partner.html
+Exception in thread "Thread-264" java.lang.StringIndexOutOfBoundsException: begin 6, end -1, length 102
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3319)
+	at java.base/java.lang.String.substring(String.java:1874)
+	at linkChecker.LinkCheckerLimited.formatElement(LinkCheckerLimited.java:183)
+	at linkChecker.LinkCheckerLimited$Link.<init>(LinkCheckerLimited.java:204)
+	at linkChecker.LinkCheckerLimited.search(LinkCheckerLimited.java:62)
+	at linkChecker.LinkCheckerLimited.lambda$search$0(LinkCheckerLimited.java:94)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+Process finished with exit code -1
